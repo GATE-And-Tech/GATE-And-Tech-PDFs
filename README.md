@@ -4,9 +4,11 @@
 [![GitHub forks](https://img.shields.io/github/forks/GATE-And-Tech/GATE-And-Tech-PDFs)](https://github.com/GATE-And-Tech/GATE-And-Tech-PDFs/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A curated collection of practice question PDFs from **GATE And Tech**, designed to help with preparation for competitive technical exams like **GATE CSE, GATE DA, IIIT Hyderabad (PGEE), BITS HD**, and similar exams.
+A curated collection of practice question PDFs from **[GATE And Tech](https://gateandtech.in/)**, designed to help with preparation for competitive technical exams like **GATE CSE, GATE DA, IIIT Hyderabad (PGEE), BITS HD**, and similar exams.
 
 This repository focuses on improving **concepts** and **problem-solving skills** through high-quality practice materials.
+
+**Topics:** GATE CSE, GATE DA, IIIT Hyderabad PGEE, BITS HD, Competitive Exams, Study Materials
 
 ## 📂 Repository Structure
 
