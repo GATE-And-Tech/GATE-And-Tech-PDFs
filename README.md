@@ -1,85 +1,81 @@
-# GATE-And-Tech-PDFs
+<div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/GATE-And-Tech/GATE-And-Tech-PDFs)](https://github.com/GATE-And-Tech/GATE-And-Tech-PDFs/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/GATE-And-Tech/GATE-And-Tech-PDFs)](https://github.com/GATE-And-Tech/GATE-And-Tech-PDFs/network)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # 📚 GATE & Tech — Practice Questions & Exam Vault
 
-A curated collection of practice question PDFs from **[GATE And Tech](https://gateandtech.in/)**, designed to help with preparation for competitive technical exams like **GATE CSE, GATE DA, IIIT Hyderabad (PGEE), BITS HD**, and similar exams.
+  **Official curated repository of high-quality practice question PDFs, PYQs, and preparation guides by [GATE And Tech](https://gateandtech.in/).**
 
-This repository focuses on improving **concepts** and **problem-solving skills** through high-quality practice materials.
+  [![GitHub stars](https://img.shields.io/github/stars/GATE-And-Tech/GATE-And-Tech-PDFs?style=for-the-badge&logo=github)](https://github.com/GATE-And-Tech/GATE-And-Tech-PDFs/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/GATE-And-Tech/GATE-And-Tech-PDFs?style=for-the-badge&logo=github)](https://github.com/GATE-And-Tech/GATE-And-Tech-PDFs/network)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-**Topics:** GATE CSE, GATE DA, IIIT Hyderabad PGEE, BITS HD, Competitive Exams, Study Materials
+  [Overview](#-overview) • [Repository Structure](#-repository-structure) • [Exams Covered](#-exams-covered) • [Official Website](#-official-platform) • [Connect](#-connect-with-us)
+
+</div>
+
+---
+
+## 📌 Overview
+
+This repository is an official open archive of practice question PDFs, subject notes, strategy guides, and past-year practice modules created by **GATE And Tech**.
+
+Targeted towards competitive technical exams in India including **GATE CSE**, **GATE DA (Data Science & AI)**, **IIIT Hyderabad PGEE**, **BITS HD**, and top M.Tech entrance tests.
+
+---
 
 ## 📂 Repository Structure
 
-The repository is organized by exam and year:
-
 ```
 GATE-And-Tech-PDFs/
-├── GATE 2025/
-├── GATE 2026/
-├── IIITH PGEE 2025/
-├── IIITH PGEE 2026/
-└── README.md
+├── GATE 2025/               # GATE 2025 Practice Sets & Daily Quiz PDFs
+├── GATE 2026/               # GATE 2026 Subject Guides & Aptitude PDF Vault
+├── IIITH PGEE 2025/         # IIIT Hyderabad PGEE 2025 Solved Sets
+├── IIITH PGEE 2026/         # IIIT Hyderabad PGEE 2026 Preparation Strategy & PDFs
+└── README.md                # Official Repository Documentation
 ```
 
-## 📚 Available Resources
+---
 
-### GATE (Graduate Aptitude Test in Engineering)
-- **GATE 2025**: Practice questions and solutions
-- **GATE 2026**: Latest practice materials
+## 🎯 Exams Covered
 
-### IIIT Hyderabad PGEE (Post Graduate Entrance Examination)
-- **IIITH PGEE 2025**: Previous year practice questions
-- **IIITH PGEE 2026**: Current year preparation materials including:
-  - How To Prepare Aptitude For PGEE 2026
-  - Important Topics For PGEE 2026
+| Exam | Target Branches | Resources Provided |
+| :--- | :--- | :--- |
+| **GATE 2025 / 2026 / 2027** | Computer Science (CSE), Data Science & AI (DA) | Daily Practice Questions, Aptitude Modules |
+| **IIIT Hyderabad PGEE** | M.Tech Computer Science & Computer Science Information Security | Aptitude Guides, Important Topic Outlines |
+| **BITS HD** | Higher Degree Admissions | Technical & Analytical Aptitude Sets |
 
-### Other Exams
-- BITS HD and similar competitive technical exams
+---
+
+## 🚀 Official GATE 2027 Web Platform
+
+Looking for our interactive **GATE 2027 General Aptitude Web Platform** with daily 2-question streak series, 27 full-length tests, automated scoring, and real-time leaderboards?
+
+👉 **Check out our dedicated web repository:** **[GATE-And-Tech / gate-2027-website](https://github.com/GATE-And-Tech/gate-2027-website)**
+
+---
 
 ## 🚀 How to Use
 
-1. **Clone the repository**:
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/GATE-And-Tech/GATE-And-Tech-PDFs.git
    ```
 
-2. **Navigate to the desired exam folder** and access the PDFs directly.
-
-3. **Download individual files** from the GitHub interface if you don't want to clone the entire repository.
-
-## 🎯 Exam Preparation Tips
-
-- **Regular Practice**: Solve questions regularly to build problem-solving speed
-- **Concept Understanding**: Focus on understanding underlying concepts rather than memorization
-- **Time Management**: Practice under timed conditions to simulate exam environment
-- **Review Mistakes**: Analyze incorrect answers to avoid repeating mistakes
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Connect With Us
-
-- **Telegram Group**: [Join our Telegram Group](https://t.me/gateandtechcse)
-- **Telegram Channel**: [Subscribe to our Telegram Channel](https://t.me/gateandtech)
-- **GATE And Tech LinkedIn**: [LinkedIn Company Page](https://www.linkedin.com/company/gate-and-tech)
-- **Lakshman Patel LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lakshman-patel)
-- **YouTube**: [Subscribe to our YouTube Channel](https://www.youtube.com/@gateandtechofficial)
-- **X (Twitter)**: [Follow us on X](https://x.com/GATEAndTech)
-- **Website**: [Visit our Website](https://gateandtech.in/)
+2. **Browse the folder corresponding to your exam** and download or view PDFs directly on GitHub.
 
 ---
 
-**Happy Studying!** 📖✨
+## 📞 Connect With Us
+
+- 🌐 **Official Website:** [https://gateandtech.in/](https://gateandtech.in/)
+- ✈️ **Telegram Group:** [@gateandtechcse](https://t.me/gateandtechcse)
+- 📢 **Telegram Channel:** [@gateandtech](https://t.me/gateandtech)
+- 💼 **LinkedIn:** [GATE And Tech Company Page](https://www.linkedin.com/company/gate-and-tech)
+- 👨‍💻 **Founder LinkedIn:** [Lakshman Patel](https://www.linkedin.com/in/lakshman-patel)
+- 📺 **YouTube:** [@gateandtechofficial](https://www.youtube.com/@gateandtechofficial)
+- 𝕏 **X (Twitter):** [@GATEAndTech](https://x.com/GATEAndTech) / [@Lakshman2302](https://x.com/Lakshman2302)
+
+---
+
+<div align="center">
+  <b>Empowering technical aspirants with high-quality practice materials.</b> 📖✨
+</div>
